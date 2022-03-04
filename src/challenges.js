@@ -83,7 +83,7 @@ function encode() {
 }
 function decode() {
   // seu código aqui
-}
+} // Personal Repo
 
 module.exports = {
   calcArea,
